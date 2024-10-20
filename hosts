@@ -1,0 +1,74 @@
+# Title: CoolCat467/hosts
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/CoolCat467/hosts/main/hosts
+# Project home page: https://github.com/CoolCat467/hosts
+#
+# Based off / includes from StevenBlack/hosts
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+
+# Added June 17, 2021
+0.0.0.0 ssl.googleanalytics.com
+0.0.0.0 click.googleanalytics.com
+0.0.0.0 alt2.googleanalytics.com
+0.0.0.0 alt4.googleanalytics.com
+0.0.0.0 sandbox.googleanalytics.com
+0.0.0.0 admobclick.com
+0.0.0.0 www.admobclick.com
+0.0.0.0 pixel.admobclick.com
+0.0.0.0 www-google-analytics.l.google.com
+
+# Added June 30, 2021
+# Chase Bank Scam. See #1699
+0.0.0.0 www.secure-verify-info.ddns.info
+0.0.0.0 secure-verify-info.ddns.info
+0.0.0.0 www.secure-verify-account.ddns.info
+0.0.0.0 secure-verify-account.ddns.info
+0.0.0.0 www.secure-verify-update.ddns.info
+0.0.0.0 secure-verify-update.ddns.info
+0.0.0.0 www.security-update.ddns.info
+0.0.0.0 security-update.ddns.info
+0.0.0.0 update-security.ddns.info
+0.0.0.0 www.update-security.ddns.info
+0.0.0.0 www.security-update.ocry.com
+0.0.0.0 security-update.ocry.com
+0.0.0.0 update-information.zzux.com
+0.0.0.0 www.update-information.zzux.com
+0.0.0.0 information-security.zzux.com
+0.0.0.0 www.information-security.zzux.com
+0.0.0.0 information-update.dynamic-dns.net
+0.0.0.0 www.information-update.dynamic-dns.net
+0.0.0.0 www.security-info.zyns.com
+0.0.0.0 security-info.zyns.com
+0.0.0.0 update-security.qhigh.com
+0.0.0.0 www.update-security.qhigh.com
+0.0.0.0 www.security-update.qhigh.com
+0.0.0.0 security-update.qhigh.com
+0.0.0.0 www.seure-update.fartit.com
+0.0.0.0 seure-update.fartit.com
+
+# WPAD
+0.0.0.0 wpad.engineer
+0.0.0.0 wpad.exchange
+0.0.0.0 wpad.exposed
+0.0.0.0 wpad.net.ru
+0.0.0.0 wpad.online
+0.0.0.0 wpad.software
+0.0.0.0 wpad.trade
+
